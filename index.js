@@ -1,4 +1,3 @@
-// index.js
 import fs from "fs";
 import { deduce } from "./modules/deduction.js";
 import { induce } from "./modules/induction.js";
